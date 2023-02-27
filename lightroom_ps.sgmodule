@@ -7,8 +7,8 @@
 [Script]
 # > Lightroom
 LightRoom=type=http-response,pattern=^https:\/\/photos\.adobe\.io\/v2\/accounts*,requires-body=1,script-path=https://raw.githubusercontent.com/zhangsirf/mysurge/main/script/lightroom.js
-# > Nicegram会员
-Nicegram会员 = type=http-request,pattern=^https?:\/\/restore-access\.indream\.app\/restoreAccess\?id=\w+$,requires-body=0,max-size=0,script-path=https://raw.githubusercontent.com/zhangsirf/mysurge/main/script/Nicegram.js,script-update-interval=0
+# > PhotoshopExpress
+PhotoshopExpress=type=http-response,pattern=^https:\/\/lcs-mobile-cops\.adobe\.io\/mobile_profile,requires-body=1,script-path=https://raw.githubusercontent.com/zhangsirf/mysurge/main/script/photoshop.js
 
 [MITM]
 hostname = %APPEND% photos.adobe.io, lcs-mobile-cops.adobe.io
