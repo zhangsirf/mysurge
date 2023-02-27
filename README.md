@@ -3,7 +3,7 @@
 ### surge模块
 
 1. 高德地图去广告(https://raw.githubusercontent.com/zhangsirf/mysurge/main/gddt.sgmodule) 
-2. Adobe LightRoomhttps://raw.githubusercontent.com/zhangsirf/mysurge/main/lightroom.sgmodule)
+2. Adobe LightRoom（https://raw.githubusercontent.com/zhangsirf/mysurge/main/lightroom.sgmodule)
 3. Google 地址重定向(https://raw.githubusercontent.com/zhangsirf/mysurge/main/URLRewrite.sgmodule)
 4. PhotoshopExpress解锁高级订阅(https://raw.githubusercontent.com/zhangsirf/mysurge/main/photoshop.sgmodule)
 5. Nicegram解锁会员(https://raw.githubusercontent.com/zhangsirf/mysurge/main/Nicegram.sgmodule)
