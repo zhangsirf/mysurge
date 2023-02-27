@@ -1,0 +1,11 @@
+#!name=PhotoshopExpress
+#!desc=PhotoshopExpress解锁高级订阅
+#!icon=https://raw.githubusercontent.com/zhangsirf/mysurge/main/private/photoshop.png
+#!homepage=https://github.com/zhangsirf
+#!author=zhangsirf
+
+[MITM]
+hostname = %APPEND% lcs-mobile-cops.adobe.io
+
+[Script]
+PhotoshopExpress=type=http-response,pattern=^https:\/\/lcs-mobile-cops\.adobe\.io\/mobile_profile,requires-body=1,script-path=https://raw.githubusercontent.com/zhangsirf/mysurge/main/script/photoshop.js
