@@ -1,0 +1,11 @@
+#!name=LightRoom
+#!desc=Adobe LightRoom解锁
+#!icon=https://raw.githubusercontent.com/zhangsirf/mysurge/main/private/lightroom.png
+#!homepage=https://github.com/zhangsirf
+#!author=zhangsirf
+
+[MITM]
+hostname = %APPEND% photos.adobe.io
+
+[Script]
+LightRoom=type=http-response,pattern=^https:\/\/photos\.adobe\.io\/v2\/accounts*,requires-body=1,script-path=https://raw.githubusercontent.com/zhangsirf/mysurge/main/script/lightroom.js
