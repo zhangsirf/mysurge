@@ -1,0 +1,11 @@
+#!name=白描
+#!desc=白描黄金会员
+#!icon=https://raw.githubusercontent.com/zhangsirf/mysurge/main/private/baimiao.png
+#!homepage=https://github.com/zhangsirf
+#!author=zhangsirf
+
+[Script]
+白描=type=http-response,pattern=^https?:\/\/baimiao\.uzero\.cn\/api\/v\d\.user\/appLaunchWithUser$,requires-body=1,script-path=https://raw.githubusercontent.com/zhangsirf/mysurge/main/script/baimiao.js
+
+[MITM]
+hostname = %APPEND% baimiao.uzero.cn
