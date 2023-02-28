@@ -11,6 +11,3 @@ WPS会员 = type=http-response,pattern=^https?:\/\/.*?account\.wps\.(com|cn)(:\d
 
 [MITM]
 hostname = %APPEND% account.wps.cn,*account.wps.com
-
-
-
