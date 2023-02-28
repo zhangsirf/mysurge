@@ -1,0 +1,11 @@
+#!name=Appraven
+#!desc=Appraven解锁会员
+#!icon=https://raw.githubusercontent.com/zhangsirf/mysurge/main/private/
+#!homepage=https://github.com/zhangsirf
+#!author=zhangsirf
+
+[Script]
+Appraven=type=http-response,pattern=^https?:\/\/appraven\.net\/AppRaven\/(app|social|buy),requires-body=1,script-path=https://raw.githubusercontent.com/zhangsirf/mysurge/main/script/accuWeather.js
+
+[MITM]
+hostname= %APPEND% appraven.net
