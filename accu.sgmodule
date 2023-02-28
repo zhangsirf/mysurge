@@ -1,0 +1,11 @@
+#!name=AccuWeather
+#!desc=AccuWeather解锁会员
+#!icon=https://raw.githubusercontent.com/zhangsirf/mysurge/main/private/accu.png
+#!homepage=https://github.com/zhangsirf
+#!author=zhangsirf
+
+[Script]
+AccuWeather=type=http-response,pattern=https://app-subscription-proxy.accuweather.com/subscriptions/v1/apple/validate,script-path=https://raw.githubusercontent.com/zhangsirf/mysurge/main/script/accuWeather.js,requires-body=1,max-size=0
+
+[MITM]
+hostname = %APPEND% app-subscription-proxy.accuweather.com
