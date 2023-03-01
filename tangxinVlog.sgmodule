@@ -1,0 +1,11 @@
+#!name=糖心VLog
+#!desc=糖心VLog破解全部视频
+#!icon=https://raw.githubusercontent.com/zhangsirf/mysurge/main/private/
+#!homepage=https://github.com/zhangsirf
+#!author=zhangsirf
+
+[Script]
+糖心VLog=type=http-response,pattern=^https?:\/\/txh016\.com\/h5\/m3u8\?url=\/media2\/m3u8-preview\/.+,requires-body=1,script-path=https://raw.githubusercontent.com/zhangsirf/mysurge/main/script/TxVLogAllCrack.js
+
+[MITM]
+hostname = %APPEND% txh016.com
