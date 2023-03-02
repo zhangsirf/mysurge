@@ -11,4 +11,4 @@
 ^https?:\/\/(ditu|maps).google\.cn https://maps.google.com 302
 
 [MITM]
-hostname = %INSERT% google.cn, g.cn
+hostname = %INSERT% google.cn:433, g.cn:433
