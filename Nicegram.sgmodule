@@ -4,7 +4,6 @@
 #!homepage=https://github.com/zhangsirf
 #!author=zhangsirf
 
-l
  
 [Script] 
 Nicegram = type=http-response,pattern=^https?:\/\/restore-access\.indream\.app\/restoreAccess,requires-body=1,max-size=0,script-path=scripts/langkhach/Nicegram.js,script-update-interval=0 
