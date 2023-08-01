@@ -172,14 +172,3 @@ https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
 https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
 #EXTINF:-1,tvg-id="黑莓动画" tvg-name="黑莓动画" group-title="电影",黑莓动画
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=4
-
-#EXTINF:-1 tvg-name="上海纪实人文" group-title="其他",上海纪实人文
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=4
-#EXTINF:-1 tvg-name="NewTV精品纪录" group-title="其他",NewTV精品纪录
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=4
-#EXTINF:-1 tvg-name="北京冬奥纪实" group-title="其他",北京冬奥纪实
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=4
-#EXTINF:-1 tvg-name="NewTV中国功夫" group-title="其他",NewTV中国功夫
-NewTV中国功夫 2.5M1080,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=4
-#EXTINF:-1 tvg-name="NewTV军事评论" group-title="其他",NewTV军事评论
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=4
