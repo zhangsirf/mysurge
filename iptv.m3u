@@ -172,3 +172,36 @@ https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
 https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
 #EXTINF:-1,tvg-id="黑莓动画" tvg-name="黑莓动画" group-title="电影",黑莓动画
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=4
+
+#EXTINF:-1,tvg-id="抗战剧场" tvg-name="抗战剧场" group-title="爱奇艺电影",抗战剧场
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8
+#EXTINF:-1,tvg-id="国剧修复" tvg-name="国剧修复" group-title="爱奇艺电影",国剧修复
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_77_720P_t10/c53_lb_77_720P_t10.m3u8?key
+#EXTINF:-1,tvg-id="老剧剧场" tvg-name="老剧剧场" group-title="爱奇艺电影",老剧剧场
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_92_600_t10/c52_lb_92_600_t10.m3u8?key
+#EXTINF:-1,tvg-id="古装剧场" tvg-name="古装剧场" group-title="爱奇艺电影",古装剧场
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_174_600_t10/c54_lb_174_600_t10.m3u8?key
+#EXTINF:-1,tvg-id="高分电影" tvg-name="高分电影" group-title="爱奇艺电影",高分电影
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_112_600_t10/c51_lb_112_600_t10.m3u8?key
+#EXTINF:-1,tvg-id="票房冠军" tvg-name="票房冠军" group-title="爱奇艺电影",票房冠军
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8?key
+#EXTINF:-1,tvg-id="经典港片" tvg-name="经典港片" group-title="爱奇艺电影",经典港片
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8?key
+#EXTINF:-1,tvg-id="电影大片" tvg-name="电影大片" group-title="爱奇艺电影",电影大片
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8?key
+#EXTINF:-1,tvg-id="惊悚午夜" tvg-name="惊悚午夜" group-title="爱奇艺电影",惊悚午夜
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8?key
+#EXTINF:-1,tvg-id="历史秘闻" tvg-name="历史秘闻" group-title="爱奇艺电影",历史秘闻
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_236_600_t10/c57_lb_236_600_t10.m3u8?key
+#EXTINF:-1,tvg-id="军事观察" tvg-name="军事观察" group-title="爱奇艺电影",军事观察
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8?key
+#EXTINF:-1,tvg-id="科学探索" tvg-name="科学探索" group-title="爱奇艺电影",科学探索
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8?key
+#EXTINF:-1,tvg-id="自然地理" tvg-name="自然地理" group-title="爱奇艺电影",自然地理
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_81_600_t10/c52_lb_81_600_t10.m3u8?key
+#EXTINF:-1,tvg-id="老年剧场" tvg-name="老年剧场" group-title="爱奇艺电影",老年剧场
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_179_600_t10/c56_lb_179_600_t10.m3u8?key
+#EXTINF:-1,tvg-id="年代剧场" tvg-name="年代剧场" group-title="爱奇艺电影",年代剧场
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_171_300_t10/c54_lb_171_300_t10.m3u8?key
+#EXTINF:-1,tvg-id="抗战剧场" tvg-name="抗战剧场" group-title="爱奇艺电影",抗战剧场
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8?key
