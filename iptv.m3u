@@ -173,8 +173,6 @@ https://live.v1.mk/api/bestv.php?id=dzjc8m/8000000
 #EXTINF:-1,tvg-id="黑莓动画" tvg-name="黑莓动画" group-title="电影",黑莓动画
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=4
 
-#EXTINF:-1,tvg-id="抗战剧场" tvg-name="抗战剧场" group-title="爱奇艺电影",抗战剧场
-http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8
 #EXTINF:-1,tvg-id="国剧修复" tvg-name="国剧修复" group-title="爱奇艺电影",国剧修复
 http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_77_720P_t10/c53_lb_77_720P_t10.m3u8?key
 #EXTINF:-1,tvg-id="老剧剧场" tvg-name="老剧剧场" group-title="爱奇艺电影",老剧剧场
@@ -203,5 +201,3 @@ http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_8
 http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_179_600_t10/c56_lb_179_600_t10.m3u8?key
 #EXTINF:-1,tvg-id="年代剧场" tvg-name="年代剧场" group-title="爱奇艺电影",年代剧场
 http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_171_300_t10/c54_lb_171_300_t10.m3u8?key
-#EXTINF:-1,tvg-id="抗战剧场" tvg-name="抗战剧场" group-title="爱奇艺电影",抗战剧场
-http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8?key
